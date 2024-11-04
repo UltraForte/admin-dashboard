@@ -1,0 +1,1 @@
+This is an Admin Dashboard project from The Odin Project. With this project I will demonstrate understanding of CSS Grid and use it to build the layout of the page.
